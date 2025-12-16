@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Indhu Sri S</h1>
-<h3 align="center">Computer Science Undergraduate | Data Science | AI | Flutter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Indhu375&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -56,14 +55,3 @@
 </p>
 
 ---
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indhu375&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhu375&layout=compact&theme=tokyonight" />
-</p>
