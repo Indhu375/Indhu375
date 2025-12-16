@@ -34,7 +34,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,sql,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 </p>
 
 ### 🌐 Web & App Development
@@ -57,51 +57,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 LexiLearn – Dyslexia Friendly Learning App
-- Accessible learning platform with **multisensory activities**
-- Improved reading engagement using ML-driven personalization  
-**Tech:** HTML, CSS, JavaScript, XGBoost, Firebase
-
----
-
-### 🔹 GradAI – AI-Powered Career Guidance Platform
-- Personalized career & internship recommendations
-- Skill-matching algorithm with clean UI  
-**Tech:** Flutter, Firebase, Scikit-learn
-
----
-
-### 🔹 Credit Card Fraud Detection
-- ML models to detect fraudulent transactions
-- Addressed **class imbalance** using advanced techniques  
-**Tech:** Python, Pandas, Scikit-learn  
-🔗 Repo: https://github.com/Indhu375/Credit_Card_Fraud_Detection
-
----
-
-## 💼 Experience
-
-**Data Science Intern**  
-📍 *SmartED Innovations, Bengaluru*  
-🗓️ Jun 2025 – Aug 2025  
-
-- Performed **EDA, data cleaning & SQL analysis**
-- Analyzed real-world student performance data
-- Delivered actionable insights to improve learning outcomes
-
----
-
-## 🏆 Achievements & Certifications
-
-- ⭐ Solved **175+ problems** on LeetCode
-- 🧠 Built end-to-end ML models using **XGBoost**
-- 📜 Data Science with Python – SmartED Innovations
-- 📜 Data Analysis & Decision Making – NPTEL
-- 📜 Accenture Technology Consulting Job Simulation
-
----
 
 ## 📊 GitHub Stats
 
