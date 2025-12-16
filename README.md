@@ -73,10 +73,3 @@
 
 ---
 
-### 🎨 Additional Skills
-<p>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge"/>
-</p>
-
----
