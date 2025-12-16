@@ -24,10 +24,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Undergraduate at **KPR Institute of Engineering and Technology**
-- 📊 Strong interest in **Data Science, Machine Learning & AI**
-- 📱 Flutter developer with focus on **user-centric design**
-- 🔍 Solved **175+ DSA problems** on LeetCode
+
+- 📊 Strong interest in **Data Science, Web Development, Machine Learning & AI**
 - 🤝 Open to **internships, research & open-source collaboration**
 
 ---
