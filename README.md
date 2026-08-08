@@ -28,7 +28,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.E. Computer Science (2023–2027) | CGPA: 8.50  
-- 🧠 Strong in DSA (250+ LeetCode problems solved)  
+- 🧠 Strong in DSA (350+ LeetCode problems solved)  
 - 🤖 Focused on Machine Learning, Web Development & LLM Integration  
 - 🚀 Interested in building scalable AI-powered systems  
 
@@ -57,8 +57,6 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Groq_API-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SMTP_Email-FFCA28?style=for-the-badge"/>
 </p>
 
 ### 🌐 Web & App
