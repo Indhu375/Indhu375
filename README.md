@@ -62,7 +62,6 @@ Machine Learning | Data Engineering | LLM Applications
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 </p>
 
 ---
@@ -85,9 +84,7 @@ Machine Learning | Data Engineering | LLM Applications
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 
